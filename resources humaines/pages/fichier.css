@@ -1,0 +1,19 @@
+body{
+    background: url(../images/candidature.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1{
+    color: white;
+    font-family: "Lucida Grande","Lucida Sans Unicode","Lucida Sans","DejaVu Sans",Verdana,"sans-serif";
+    font-weight: 200;
+    text-align: center;
+}
+.myform{
+    background: white;
+    width: 75%;
+    height: 100%;
+    padding: 25px 25px 25px 25px;
+    border-radius: 20px;
+    margin: auto;
+}
